@@ -44,7 +44,3 @@ The study is structured around four core inquiries:
 
 ---
 
-## 📁 Repository Structure
-* `/data`: Contains anonymized student datasets.
-* `/notebooks`: Jupyter notebooks with statistical calculations.
-* `/results`: Exported charts and final report.
