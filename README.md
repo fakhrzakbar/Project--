@@ -71,4 +71,4 @@ Based on the statistical output, the following conclusions have been drawn:
 
 ## 🖼️ Visualizations
 *(Note: To display your charts here, save your Python plot as 'results.png' in your repository)*
-![Analysis Results](results.png)
+![Analysis Results]([results.png](https://github.com/fakhrzakbar/Project--/blob/main/Result.png))
