@@ -3,7 +3,7 @@
 A comprehensive statistical analysis validating course placement effectiveness at The Key English Course Company
 
 <p align="center">
-  <img src="./assets/logo.png" alt="The Key" width="200" />
+  <img src="https://raw.githubusercontent.com/fakhrzakbar/Project--/main/Assets/logo.png" width="300" alt="Project Logo">
 </p>
 
 ---
@@ -82,4 +82,4 @@ Based on the statistical output, the following conclusions have been drawn:
 ---
 
 ## 🖼️ Visualizations
-![Analysis Results](https://raw.githubusercontent.com/fakhrzakbar/Project--/main/Result.png)
+![Analysis Results](https://raw.githubusercontent.com/fakhrzakbar/Project--/main/Assets/Result.png)
