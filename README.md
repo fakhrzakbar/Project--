@@ -1,6 +1,10 @@
 
-# 🎓 Course Placement Statistical Analysis
-### *Evaluating the Effectiveness of "The Key" Placement System*
+#  Student Performance and Aptitude Analysis
+A comprehensive statistical analysis validating course placement effectiveness at The Key English Course Company
+
+<p align="center">
+  <img src="./assets/logo.png" alt="The Key" width="200" />
+</p>
 
 ---
 
@@ -35,6 +39,14 @@ The study is structured around four core inquiries:
 | **Statistical Methods** | [e.g., ANOVA, Pearson Correlation, Regression Analysis] |
 
 ---
+
+.
+├── README.md                        # This file
+├── assets                           # Complete Jupyter notebook with all calculations/
+│   └── logo.jpg                     # company logo         
+├── analysis_notebook.ipynb          # analysis report        
+├── report in progress.pdf           # analysis report
+└── requirements.txt                 # Python dependencies
 
 ## 📊 Research Results & Analysis
 
