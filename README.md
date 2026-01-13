@@ -40,13 +40,19 @@ The study is structured around four core inquiries:
 
 ---
 
+## 📂 Repository Contents
+
+```text
 .
-├── README.md                        # This file
-├── assets                           # Complete Jupyter notebook with all calculations/
-│   └── logo.jpg                     # company logo         
-├── analysis_notebook.ipynb          # analysis report        
-├── report in progress.pdf           # analysis report
+├── README.md                        # Project documentation and summary
+├── Assets/                          # Folder for visual elements
+│   └── logo.png                     # Company logo
+├── analysis_notebook.ipynb          # Jupyter notebook with full calculations
+├── report in progress.pdf           # Detailed analysis report (PDF)
 └── requirements.txt                 # Python dependencies
+```
+
+---
 
 ## 📊 Research Results & Analysis
 
