@@ -106,3 +106,13 @@ The Jupyter notebook (`analysis_notebook.ipynb`) mirrors the PDF report and incl
 - [x] Statistical interpretations
 - [x] Visualization outputs
 - [x] Result verification
+
+# Documentation
+
+See [detailed_report.pdf](https://github.com/fakhrzakbar/Project-The-Key-English-Course/blob/main/detailed_report.pdf) for the full 50-page analysis report with:
+
+* Executive summary
+* Detailed methodology
+* Comprehensive results
+* Practical recommendations
+* Glossary of terms
